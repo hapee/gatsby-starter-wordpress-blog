@@ -31,7 +31,7 @@ const Layout = ({ isHomePage, children }) => {
           </Link>
         )}
       </header>
-
+      <div>Bio</div>
       <main>{children}</main>
 
       <footer>
